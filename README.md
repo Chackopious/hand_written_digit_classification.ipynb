@@ -59,7 +59,5 @@ The model achieves an accuracy of approximately 99% on the MNIST test dataset. T
 
 Contributions are welcome! If you have any improvements, suggestions, or bug fixes, please submit a pull request or open an issue.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
