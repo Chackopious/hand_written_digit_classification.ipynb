@@ -11,7 +11,6 @@ This repository contains a project for classifying handwritten digits using a ma
 [Usage](#usage)
 [Results](#results)
 [Contributing](#contributing)
-[License](#license)
 
 ## Introduction
 
